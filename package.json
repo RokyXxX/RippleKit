@@ -1,0 +1,29 @@
+{
+    "name": "ripplekit",
+    "version": "0.0.1",
+    "description": "CSS Framework, with all the switches, to customize.",
+    "main": "src/js/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/RokyXxX/RippleKit.git"
+    },
+    "keywords": [
+      "css",
+      "framework",
+      "plugins",
+      "customizable",
+      "flexible",
+      "awesome",
+      "js"
+    ],
+    "author": "RokyBeast",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/RokyXxX/RippleKit/issues"
+    },
+    "homepage": "https://github.com/RokyXxX/RippleKit#readme"
+  }
+  
