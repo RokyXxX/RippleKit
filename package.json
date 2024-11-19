@@ -1,0 +1,24 @@
+{
+  "name": "ripplekit",
+  "version": "1.0.0",
+  "description": "RippleKit (Edit Later)",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "js/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RokyXxX/RippleKit.git"
+  },
+  "keywords": [
+    "RippleKit",
+    "Customizable",
+    "Plugin"
+  ],
+  "author": "RokyBeast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RokyXxX/RippleKit/issues"
+  },
+  "homepage": "https://github.com/RokyXxX/RippleKit#readme"
+}
