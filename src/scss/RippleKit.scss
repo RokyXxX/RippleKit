@@ -1,0 +1,16 @@
+// RippleKit.scss
+// Main SCSS File to compile.
+
+// Importing files from '/lib'
+@import 'lib/components/components';
+@import 'lib/functions/functions';
+@import 'lib/layout/layout';
+@import 'lib/typography/typography';
+@import 'lib/variables/variables';
+
+// Importing files from '/scss'
+@import 'helpers/helpers';
+@import 'reboot/reboot';
+
+/// (Optional) Import Extra Files.
+// @import '';
